@@ -1,0 +1,6 @@
+interface:
+  display_name: "AI Training Tutor"
+  short_description: "通用 AI 模型训练教学与报错陪跑指南"
+  default_prompt: "Use $ai-training-tutor to guide a beginner through AI model training and troubleshooting."
+policy:
+  allow_implicit_invocation: true
